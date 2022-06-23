@@ -3,7 +3,7 @@ function isEven(number){
         console.log(`${number} is even`)
     }
     else {
-        console.log(`${number} is odd`)
+        console.log(`${number} is not even`)
     }
 }
 isEven(10)
