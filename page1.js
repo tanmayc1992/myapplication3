@@ -6,5 +6,9 @@ function isEven(number){
         console.log(`${number} is not even`)
     }
 }
+
+
+
+
 isEven(10)
 isEven(11)
